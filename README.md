@@ -67,7 +67,7 @@ El patrón de ataque identificado para esta vulnerabilidad es:
 - **CAPEC-87: Omisión de Autenticación**
   - Más información: [CAPEC-87 en Mitre](https://capec.mitre.org/data/definitions/87.html)
 
-![](Images/27.png)
+![](Images/29.png)
   
 Este patrón describe los ataques en los que los controles de autenticación son eludidos o manipulados, permitiendo acceso no autorizado.
 
